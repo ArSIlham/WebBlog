@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fFvsEtyEvdNF4gIhq2sNnZXHfqug3RNY+YDUlPB+ADh3OwxyGp+DAYw0r2N8ANCINO8exKiGPmttw8N4j6shUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArS\\source\\repos\\WebApplication13\\WebBlog\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ArS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

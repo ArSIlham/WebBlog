@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Bases\" />
+    <Folder Include="Concretes\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NETStandard.Library" Version="2.0.3" />
+  </ItemGroup>
+
+</Project>
